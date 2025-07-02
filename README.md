@@ -1,1 +1,4 @@
 # Parte2
+Esta es la [Parte 2](https://valeriacaroe.github.io/Parte2/) de nuestra actividad.
+
+Se obtuvo un mapa de polígonos de la unidad administrativa más baja y una tabla con tres variables numéricas. Ambos conjuntos se preprocesaron y unieron intentando conservar la mayor cantidad de datos. Se identificaron los vecinos de la capital y se calculó el coeficiente de Moran para una variable, además de realizar gráficos de dispersión. Para las variables con autocorrelación espacial significativa, se aplicó el Moran Local, se clasificaron los valores en categorías (como hotSpot o coldOutlier) y se generaron mapas temáticos. Finalmente, se realizó un análisis regional con las tres variables.
